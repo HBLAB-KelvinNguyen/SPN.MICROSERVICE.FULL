@@ -1,12 +1,118 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\SPN_pro2022\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FFA045-10F1-49CE-8196-802D887580EC}|..\\English.Infastructure\\English.Infastructure.csproj|c:\\users\\tiennvm\\desktop\\dotnet-base\\english.infastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2EE5D6-12BE-4295-BFB5-421BD98D24E8}|..\\English.Shared\\English.Shared.csproj|c:\\users\\tiennvm\\desktop\\dotnet-base\\english.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F2DD86-3197-4314-8582-6C4F821D17F8}|..\\English.Domain\\English.Domain.csproj|c:\\users\\tiennvm\\desktop\\dotnet-base\\english.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575322DB-1B35-4F73-A8A1-8722922326D1}|..\\English.Application\\English.Application.csproj|c:\\users\\tiennvm\\desktop\\dotnet-base\\english.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C4AE9-12EC-4849-A82E-D12CE079BDD4}|Hola.GoogleCloudStorage\\Hola.GoogleCloudStorage.csproj|c:\\users\\tiennvm\\desktop\\dotnet-base\\spn_pro2022\\hola.googlecloudstorage\\holagooglestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C4AE9-12EC-4849-A82E-D12CE079BDD4}|Hola.GoogleCloudStorage\\Hola.GoogleCloudStorage.csproj|solutionrelative:hola.googlecloudstorage\\holagooglestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C4AE9-12EC-4849-A82E-D12CE079BDD4}|Hola.GoogleCloudStorage\\Hola.GoogleCloudStorage.csproj|c:\\users\\tiennvm\\desktop\\dotnet-base\\spn_pro2022\\hola.googlecloudstorage\\iuploadfilegooglecloudstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C4AE9-12EC-4849-A82E-D12CE079BDD4}|Hola.GoogleCloudStorage\\Hola.GoogleCloudStorage.csproj|solutionrelative:hola.googlecloudstorage\\iuploadfilegooglecloudstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\English.Infastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\English.Infastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\English.Infastructure\\Class1.cs",
+              "RelativeToolTip": "..\\English.Infastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:18:45.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\English.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\English.Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\English.Shared\\Class1.cs",
+              "RelativeToolTip": "..\\English.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:17:53.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\English.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\English.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\English.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\English.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:17:22.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\English.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\English.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\English.Application\\Class1.cs",
+              "RelativeToolTip": "..\\English.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:17:03.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HolaGoogleStorage.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\SPN_pro2022\\Hola.GoogleCloudStorage\\HolaGoogleStorage.cs",
+              "RelativeDocumentMoniker": "Hola.GoogleCloudStorage\\HolaGoogleStorage.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\SPN_pro2022\\Hola.GoogleCloudStorage\\HolaGoogleStorage.cs",
+              "RelativeToolTip": "Hola.GoogleCloudStorage\\HolaGoogleStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:31:16.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUploadFileGoogleCloudStorage.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\SPN_pro2022\\Hola.GoogleCloudStorage\\IUploadFileGoogleCloudStorage.cs",
+              "RelativeDocumentMoniker": "Hola.GoogleCloudStorage\\IUploadFileGoogleCloudStorage.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\dotnet-base\\SPN_pro2022\\Hola.GoogleCloudStorage\\IUploadFileGoogleCloudStorage.cs",
+              "RelativeToolTip": "Hola.GoogleCloudStorage\\IUploadFileGoogleCloudStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:31:13.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
