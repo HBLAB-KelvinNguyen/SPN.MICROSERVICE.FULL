@@ -21,7 +21,7 @@ public interface IRepository<T> where T : class
     Task<T> UpdateAsync(T entity);
     Task<T> UpdateAsyncAgain(T entity);
     Task DeleteAsync(T entity);
-    Task<EFContext> GetDbContext();
+    Task<EnglishDbContext> GetDbContext();
     /// <summary>
     /// Count All entity in the table. can add Condition lamda
     /// </summary>

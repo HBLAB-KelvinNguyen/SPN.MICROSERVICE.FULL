@@ -7,7 +7,7 @@ namespace DatabaseCore.Infrastructure.Repositories;
 
 public class QuestionRepository : BaseRepository<Question>, IQuestionRepository
 {
-    public QuestionRepository(EFContext DbContext) : base(DbContext)
+    public QuestionRepository(EnglishDbContext DbContext) : base(DbContext)
     {
     }
 

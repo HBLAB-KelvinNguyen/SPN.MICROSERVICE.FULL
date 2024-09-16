@@ -5,7 +5,7 @@ namespace DatabaseCore.Infrastructure.Repositories;
 
 public class ProductRepository : BaseRepository<Product>, IProductRepository
 {
-    public ProductRepository(EFContext DbContext) : base(DbContext)
+    public ProductRepository(EnglishDbContext DbContext) : base(DbContext)
     {
     }
 }

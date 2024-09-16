@@ -5,7 +5,7 @@ namespace DatabaseCore.Infrastructure.Repositories;
 
 public class CategoryRepository : BaseRepository<Category>, ICategoryRepository
 {
-    public CategoryRepository(EFContext DbContext) : base(DbContext)
+    public CategoryRepository(EnglishDbContext DbContext) : base(DbContext)
     {
     }
 }

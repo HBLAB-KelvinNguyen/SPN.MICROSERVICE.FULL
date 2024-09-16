@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore.Metadata.Conventions.Infrastructure;
 
 namespace DatabaseCore.Infrastructure.ConfigurationEntities
 {
@@ -14,6 +15,7 @@ namespace DatabaseCore.Infrastructure.ConfigurationEntities
         public void Configure(EntityTypeBuilder<QuestionStandard> builder)
         {
             builder.ToTable("questionstandard", schema: "usr");
+            builder.Ignore(x => x.DomainEvents);
         }
     }
 }

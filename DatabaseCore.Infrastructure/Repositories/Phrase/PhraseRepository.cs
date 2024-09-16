@@ -4,7 +4,7 @@ namespace DatabaseCore.Infrastructure.Repositories;
 
 public class PhraseRepository : BaseRepository<Phrase>, IPhraseRepository
 {
-    public PhraseRepository(EFContext DbContext) : base(DbContext)
+    public PhraseRepository(EnglishDbContext DbContext) : base(DbContext)
     {
     }
 }

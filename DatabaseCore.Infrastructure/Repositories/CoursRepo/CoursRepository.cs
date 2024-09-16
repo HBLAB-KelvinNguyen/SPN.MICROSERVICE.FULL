@@ -4,7 +4,7 @@ namespace DatabaseCore.Infrastructure.Repositories;
 
 public class CoursRepository : BaseRepository<Cours>, ICoursRepository
 {
-    public CoursRepository(EFContext DbContext) : base(DbContext)
+    public CoursRepository(EnglishDbContext DbContext) : base(DbContext)
     {
     }
 }

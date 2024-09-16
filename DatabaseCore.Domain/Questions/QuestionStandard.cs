@@ -10,19 +10,17 @@ using DatabaseCore.Domain.Events;
 
 namespace DatabaseCore.Domain.Questions
 {
-    public class QuestionStandard : Entity
+    public class QuestionStandard : Entity, IAggregateRoot
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Pk_QuestionStandard_Id { get; set; }
-        public string English { get; set; }          // Từ bằng tiếng anh
-        public string Phonetic { get; set; }         // Phiên tâm
-        public string MeaningEnglish { get; set; }   // Nghĩa tiếng anh
-        public string MeaningVietNam { get; set; }   // Nghĩa tiếng việt
-        public string Note { get; set; }             // Ghi chú
-        public bool IsDeleted { get; set; }          // đã xóa hay chưa
-        public bool Added { get; set; }              // đã add vào topic hay chưa
-        public DateTime created_on { get; set; }     // THời gian tạo
+        public Guid Id { get; }
+        public string English { get; set; }
+        public string Phonetic { get; set; }
+        public string MeaningEnglish { get; set; }
+        public string MeaningVietNam { get; set; }
+        public string Note { get; set; }
+        public bool IsDeleted { get; set; }
+        public bool Added { get; set; }
+        public DateTime created_on { get; set; }
         public string Audio { get; set; }
         public int UserId { get; set; }
 

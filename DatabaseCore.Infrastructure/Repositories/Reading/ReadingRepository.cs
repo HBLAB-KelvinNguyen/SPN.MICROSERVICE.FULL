@@ -4,7 +4,7 @@ using DatabaseCore.Infrastructure.ConfigurationEFContext;
 namespace DatabaseCore.Infrastructure.Repositories;
 public class ReadingRepository : BaseRepository<Reading>, IReadingRepository
 {
-    public ReadingRepository(EFContext DbContext) : base(DbContext)
+    public ReadingRepository(EnglishDbContext DbContext) : base(DbContext)
     {
     }
 }

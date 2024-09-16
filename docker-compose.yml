@@ -48,6 +48,15 @@ services:
     networks:
      - mynetwork
 
+  vocap.api:
+    image: ${DOCKER_REGISTRY-}vocapapi
+    build:
+      context: .
+      dockerfile: Vocap.API/Dockerfile
+    networks :
+     - mynetwork
+
 volumes:
   db_data: {}
+
 

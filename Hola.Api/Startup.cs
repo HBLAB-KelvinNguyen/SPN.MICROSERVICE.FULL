@@ -51,7 +51,7 @@ namespace Hola.Api
         {
 
             services.InstallerServicesInAssembly(Configuration);
-            services.AddDbContext<EFContext>(options =>
+            services.AddDbContext<EnglishDbContext>(options =>
                    options.UseNpgsql(Configuration.GetConnectionString("HolaCoreConnectionString")));
             services.AddSwaggerGen(c =>
             {

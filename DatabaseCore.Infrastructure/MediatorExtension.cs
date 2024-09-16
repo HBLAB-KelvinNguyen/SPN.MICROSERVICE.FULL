@@ -12,7 +12,7 @@ namespace DatabaseCore.Infrastructure
 {
     public static class MediatorExtension
     {
-        public static async Task DispatDomain(this IMediator mediator, EFContext ctx)
+        public static async Task DispatDomain(this IMediator mediator, EnglishDbContext ctx)
         {
             var entyties = ctx.ChangeTracker.Entries<Entity>()
                 .Where(x => x.Entity.DomainEvents != null && x.Entity.DomainEvents.Any());

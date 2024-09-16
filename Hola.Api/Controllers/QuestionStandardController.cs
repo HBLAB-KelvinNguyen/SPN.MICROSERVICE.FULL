@@ -44,18 +44,18 @@ namespace Hola.Api.Controllers
         private readonly DapperBaseService _dapper;
         private readonly IWebHostEnvironment _hostEnvironment;
 
-        EFContext _EFContext;
+        EnglishDbContext _englishDbContext;
         public QuestionStandardController(
             IMapper mapper,
             DapperBaseService dapper,
             IWebHostEnvironment hostEnvironment,
-            EFContext eFContext)
+            EnglishDbContext eFContext)
         {
 
             _mapper = mapper;
             _dapper = dapper;
             _hostEnvironment = hostEnvironment;
-            _EFContext = eFContext;
+            _englishDbContext = eFContext;
         }
 
 
@@ -828,8 +828,8 @@ namespace Hola.Api.Controllers
                 question.English = "English";
                 question.Note = "(n)";
                 question.AddNote("Sửa lần 1");
-                _EFContext.QuestionStandards.Add(question);
-                await this._EFContext.SaveEntityAsync();
+                _englishDbContext.QuestionStandards.Add(question);
+                await this._englishDbContext.SaveEntityAsync();
                 return JsonResponseModel.Success("OK");
             }
             catch (Exception)

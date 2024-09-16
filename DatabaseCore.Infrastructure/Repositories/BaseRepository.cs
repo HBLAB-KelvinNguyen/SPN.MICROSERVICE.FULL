@@ -12,9 +12,9 @@ namespace DatabaseCore.Infrastructure.Repositories;
 
 public class BaseRepository<T> : IRepository<T> where T : class
 {
-    protected EFContext DbContext { get; set; }
+    protected EnglishDbContext DbContext { get; set; }
     internal DbSet<T> dbSet;
-    public BaseRepository(EFContext DbContext)
+    public BaseRepository(EnglishDbContext DbContext)
     {
         this.DbContext = DbContext;
         dbSet = DbContext.Set<T>();
@@ -96,7 +96,7 @@ public class BaseRepository<T> : IRepository<T> where T : class
         DbContext.Set<T>().Remove(entity);
         await DbContext.SaveChangesAsync();
     }
-    public async Task<EFContext> GetDbContext()
+    public async Task<EnglishDbContext> GetDbContext()
     {
         return await Task.FromResult(DbContext);
     }

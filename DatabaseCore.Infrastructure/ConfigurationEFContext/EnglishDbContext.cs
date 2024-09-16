@@ -9,12 +9,13 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using DatabaseCore.Domain.SeedWork;
 
 namespace DatabaseCore.Infrastructure.ConfigurationEFContext
 {
-    public class EFContext : DbContext
+    public class EnglishDbContext : DbContext, IUnitOfWork
     {
-        public EFContext(DbContextOptions<EFContext> options, IMediator mediator) : base(options)
+        public EnglishDbContext(DbContextOptions<EnglishDbContext> options, IMediator mediator) : base(options)
         {
             this.mediator = mediator;
         }
@@ -80,5 +81,12 @@ namespace DatabaseCore.Infrastructure.ConfigurationEFContext
             return true;
         }
 
+
+        public async Task<bool> SaveEntitiesAsync(CancellationToken cancellationToken = default)
+        {
+            await mediator.DispatDomain(this);
+            _ = await base.SaveChangesAsync();
+            return true;
+        }
     }
 }

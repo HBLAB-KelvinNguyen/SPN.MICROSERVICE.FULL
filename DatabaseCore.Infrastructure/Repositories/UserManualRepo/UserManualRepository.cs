@@ -6,7 +6,7 @@ namespace DatabaseCore.Infrastructure.Repositories;
 
 public class UserManualRepository : BaseRepository<UserManual>, IUserManualRepository
 {
-    public UserManualRepository(EFContext DbContext) : base(DbContext)
+    public UserManualRepository(EnglishDbContext DbContext) : base(DbContext)
     {
     }
 }

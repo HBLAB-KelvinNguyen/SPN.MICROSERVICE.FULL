@@ -5,7 +5,7 @@ namespace DatabaseCore.Infrastructure.Repositories;
 
 public class NewsRepository : BaseRepository<News>, INewsRepository
 {
-    public NewsRepository(EFContext DbContext) : base(DbContext)
+    public NewsRepository(EnglishDbContext DbContext) : base(DbContext)
     {
     }
 }

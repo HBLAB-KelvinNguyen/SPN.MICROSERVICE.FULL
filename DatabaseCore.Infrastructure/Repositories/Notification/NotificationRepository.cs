@@ -5,7 +5,7 @@ namespace DatabaseCore.Infrastructure.Repositories;
 
 public class NotificationRepository : BaseRepository<Notification>, INotificationRepository
 {
-    public NotificationRepository(EFContext DbContext) : base(DbContext)
+    public NotificationRepository(EnglishDbContext DbContext) : base(DbContext)
     {
 
     }

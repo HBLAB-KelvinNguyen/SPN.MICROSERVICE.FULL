@@ -4,7 +4,7 @@ namespace DatabaseCore.Infrastructure.Repositories;
 
 public class TopicRepository : BaseRepository<Topic>, ITopicRepository
 {
-    public TopicRepository(EFContext DbContext) : base(DbContext)
+    public TopicRepository(EnglishDbContext DbContext) : base(DbContext)
     {
     }
 }

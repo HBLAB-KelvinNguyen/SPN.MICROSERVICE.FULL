@@ -5,7 +5,7 @@ namespace DatabaseCore.Infrastructure.Repositories;
 
 public class UserRepository : BaseRepository<User>, IUserRepository
 {
-    public UserRepository(EFContext dbContext) : base(dbContext)
+    public UserRepository(EnglishDbContext dbContext) : base(dbContext)
     {
 
     }
