@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.8.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.7.3" />
     <PackageReference Include="Asp.Versioning.Http" Version="8.1.0" />
     <PackageReference Include="Aspire.Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.2.0" />
@@ -23,9 +24,11 @@
 
   <ItemGroup>
     <Folder Include="Infrastructure\" />
+    <Folder Include="NewFolder\" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\EventBus\EventBus.csproj" />
     <ProjectReference Include="..\Vocap.Domain\Vocap.Domain.csproj" />
     <ProjectReference Include="..\Vocap.Infrastructure\Vocap.Infrastructure.csproj" />
   </ItemGroup>

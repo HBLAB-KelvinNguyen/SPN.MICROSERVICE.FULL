@@ -28,7 +28,7 @@ namespace Vocap.API.Extensions
 
             services.AddScoped<IVocabularyQueries, VocabularyQueries>();
             services.AddScoped<IVocabularyRepository, VocabularyRepository>();
-            
+
         }
     }
 }

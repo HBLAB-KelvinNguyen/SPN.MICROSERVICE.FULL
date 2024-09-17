@@ -1,9 +1,7 @@
 
-using Vocap.API.Extensions;
-using Vocap.API.RabbitMQComsumer;
-using Vocap.API.RabbitMQSender;
+using User.API.RabbitComsumner;
 
-namespace Vocap.API
+namespace User.API
 {
     public class Program
     {
@@ -17,13 +15,7 @@ namespace Vocap.API
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-            builder.AppApplicationServices();
-            builder.Services.AddSingleton<IRabbitMQMessageSender, RabbitMQSenderVocap>();
-
-            // add consumservice
-            builder.Services.AddHostedService<RabbitComsumer>();
-
-
+            builder.Services.AddHostedService<AddVocapComsumer>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

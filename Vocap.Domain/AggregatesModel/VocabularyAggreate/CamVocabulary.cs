@@ -21,12 +21,12 @@ namespace Vocap.Domain.AggregatesModel.VocabularyAggreate
 
         public CamVocabulary(string daftWord)
         {
-            this.DaftWord = daftWord;   
+            this.DaftWord = daftWord;
         }
 
         public CamVocabulary()
         {
-            
+
         }
 
         protected override IEnumerable<object> GetEqualityComponents()
@@ -54,7 +54,7 @@ namespace Vocap.Domain.AggregatesModel.VocabularyAggreate
             catch (Exception e)
             {
                 return false;
-            }  
+            }
         }
     }
 }

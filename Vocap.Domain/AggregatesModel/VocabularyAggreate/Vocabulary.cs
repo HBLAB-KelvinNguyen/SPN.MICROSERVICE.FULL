@@ -13,7 +13,7 @@ namespace Vocap.Domain.AggregatesModel.VocabularyAggreate;
 public class Vocabulary : Entity, IAggregateRoot
 {
     [Required]
-    public VietnamMeaning VietnamMeaning { get; private set; } 
+    public VietnamMeaning VietnamMeaning { get; private set; }
 
     public CamVocabulary CamVocabulary { get; set; }
 
@@ -39,9 +39,9 @@ public class Vocabulary : Entity, IAggregateRoot
 
     public async void UpdateWorkFromDiction()
     {
-        
+
         var isSuccess = await CamVocabulary.GetVocabularyFromCamDictionary(this.DaftWord);
-        if (isSuccess ==true)
+        if (isSuccess == true)
         {
             // get from dic success;
             WorkFlowOfVocabulary = WorkFlow.ADDED;
@@ -50,7 +50,7 @@ public class Vocabulary : Entity, IAggregateRoot
         }
         else
         {
-            
+
         }
     }
 

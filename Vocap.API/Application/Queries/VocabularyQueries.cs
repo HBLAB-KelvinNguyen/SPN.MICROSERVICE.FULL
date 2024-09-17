@@ -32,12 +32,12 @@ namespace Vocap.API.Application.Queries
             VocabularyViewModel vocabulary = new VocabularyViewModel(word);
             // SEARCH FROM DB
             var listVocabulary = await context.Vocabularies
-                .Where(x=>x.DaftWord==word)
+                .Where(x => x.DaftWord == word)
                 .FirstOrDefaultAsync();
-            
+
 
             // SEARCH FROM INTERNET
-            if (listVocabulary==null)
+            if (listVocabulary == null)
             {
                 CamVocabulary cam = new CamVocabulary(word);
                 var work_OK = await cam.GetVocabularyFromCamDictionary(word);
