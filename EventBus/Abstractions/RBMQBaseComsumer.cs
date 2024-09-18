@@ -1,27 +1,46 @@
 ﻿using Microsoft.Extensions.Hosting;
 using RabbitMQ.Client;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using RabbitMQ.Client.Events;
+
 
 namespace EventBus.Abstractions
 {
-    public class RBMQBaseComsumer : BackgroundService
+    public abstract class RBMQBaseComsumer : BackgroundService
     {
-
+        protected abstract string GetQueueName();
         private IConnection _connection;
-        protected RabbitMQ.Client.IModel _channel;
+        protected IModel _channel;
 
-        public RBMQBaseComsumer(string queuename, string hostname )
+        public RBMQBaseComsumer(string queueName, string hostName, string userName, string passWord)
         {
-            
+            var factory = new ConnectionFactory
+            {
+                HostName = hostName,
+                UserName = userName,
+                Password = passWord
+            };
+            _connection = factory.CreateConnection();
+            _channel = _connection.CreateModel();
+            _channel.QueueDeclare(queue: queueName, false, false, false, arguments: null);
         }
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            throw new NotImplementedException();
+            stoppingToken.ThrowIfCancellationRequested();
+            var consumer = new EventingBasicConsumer(_channel);
+            consumer.Received += OnMessageReceived;
+
+            _channel.BasicConsume(queue: GetQueueName(),
+                      autoAck: false,
+                      consumer: consumer);
+            return Task.CompletedTask;
+        }
+
+        private void OnMessageReceived(object? sender, BasicDeliverEventArgs e)
+        {
+            _channel?.Close();
+            _connection?.Close();
+            base.Dispose();
         }
     }
 }

@@ -52,7 +52,7 @@ namespace Vocap.API.Controllers
             var message = new PaymentMessage();
             message.Name = mesage; ;
             message.CardNumber = "123123123";
-            rabbitMQMessageSender.SendMessage(message, "vocabularyqueue");
+            rabbitMQMessageSender.SendMessageAsync(message, "sla_queue");
             return Ok();
         }
     }

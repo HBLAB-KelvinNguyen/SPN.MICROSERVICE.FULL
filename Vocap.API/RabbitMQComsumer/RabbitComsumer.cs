@@ -16,15 +16,24 @@ namespace Vocap.API.RabbitMQComsumer
 
         public RabbitComsumer()
         {
-            var factory = new ConnectionFactory
+            try
             {
-                HostName = "localhost",
-                UserName = "guest",
-                Password = "guest"
-            };
-            _connection = factory.CreateConnection();
-            _channel = _connection.CreateModel();
-            _channel.QueueDeclare(queue: "vocabularyqueue", false, false, false, arguments: null);
+                var factory = new ConnectionFactory
+                {
+                    HostName = "localhost",
+                    UserName = "guest",
+                    Password = "guest"
+                };
+                _connection = factory.CreateConnection();
+                _channel = _connection.CreateModel();
+                _channel.QueueDeclare(queue: "vocabularyqueue", false, false, false, arguments: null);
+            }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine("Can't connect to RabbitMQ");
+            }
+
         }
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)

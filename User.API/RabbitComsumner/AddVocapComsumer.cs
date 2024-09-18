@@ -20,7 +20,7 @@ namespace User.API.RabbitComsumner
             };
             _connection = factory.CreateConnection();
             _channel = _connection.CreateModel();
-            _channel.QueueDeclare(queue: "vocabularyqueue", false, false, false, arguments: null);
+            _channel.QueueDeclare(queue: "vocabularyqueue", false, false, true, arguments: null);
         }
 
 

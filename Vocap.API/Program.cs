@@ -1,4 +1,6 @@
 
+using Polly;
+using Polly.Retry;
 using Vocap.API.Extensions;
 using Vocap.API.RabbitMQComsumer;
 using Vocap.API.RabbitMQSender;
@@ -23,8 +25,43 @@ namespace Vocap.API
             // add consumservice
             builder.Services.AddHostedService<RabbitComsumer>();
 
+            // add Polly : 
+
+            var optionsNoDelay = new RetryStrategyOptions
+            {
+                Delay = TimeSpan.FromSeconds(10)
+            };
+            var optionsDelayGenerator = new RetryStrategyOptions
+            {
+                MaxRetryAttempts = 5,
+                DelayGenerator = static args =>
+                {
+                    var delay = args.AttemptNumber switch
+                    {
+                        0 => TimeSpan.Zero,
+                        1 => TimeSpan.FromSeconds(1),
+                        2 => TimeSpan.FromSeconds(5),
+                        _ => TimeSpan.FromSeconds(10),
+                    };
+
+                    // This example uses a synchronous delay generator,
+                    // but the API also supports asynchronous implementations.
+                    return new ValueTask<TimeSpan?>(delay);
+                }
+            };
+            var optionsDefaults = new RetryStrategyOptions();
+
+
+            builder.Services.AddResiliencePipeline("sla_pipeline", builder =>
+            {
+                builder
+                    .AddRetry(optionsDelayGenerator)
+                    .AddTimeout(TimeSpan.FromSeconds(100));
+            });
 
             var app = builder.Build();
+            var env = app.Environment;
+
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

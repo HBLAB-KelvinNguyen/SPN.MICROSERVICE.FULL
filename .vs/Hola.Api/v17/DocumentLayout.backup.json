@@ -3,56 +3,131 @@
   "WorkspaceRootPath": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9852CEB2-0B92-4EA5-B814-7054CF9A2561}|User.API\\User.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9852CEB2-0B92-4EA5-B814-7054CF9A2561}|User.API\\User.API.csproj|solutionrelative:user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9852CEB2-0B92-4EA5-B814-7054CF9A2561}|User.API\\User.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\user.api\\rabbitcomsumner\\addvocapcomsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9852CEB2-0B92-4EA5-B814-7054CF9A2561}|User.API\\User.API.csproj|solutionrelative:user.api\\rabbitcomsumner\\addvocapcomsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\rabbitmqcomsumer\\rabbitcomsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\rabbitmqcomsumer\\rabbitcomsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\rabbitmqsender\\rabbitmqsendervocap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\rabbitmqsender\\rabbitmqsendervocap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\rabbitmessage\\paymentmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\rabbitmessage\\paymentmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\rabbitmqsender\\irabbitmqmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\rabbitmqsender\\irabbitmqmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1982FEEC-088D-4AF1-B9FD-898A5DC241C7}|APIOcelotGetway\\APIOcelotGetway.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\apiocelotgetway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1982FEEC-088D-4AF1-B9FD-898A5DC241C7}|APIOcelotGetway\\APIOcelotGetway.csproj|solutionrelative:apiocelotgetway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\controllers\\vocabularycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\controllers\\vocabularycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\application\\commands\\createvocabularycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\application\\commands\\createvocabularycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\vocap.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\vocap.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\rabbitmqcomsumer\\rabbitcomsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\rabbitmqcomsumer\\rabbitcomsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\eventbus\\events\\basemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|solutionrelative:eventbus\\events\\basemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\rabbitmessage\\paymentmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\rabbitmessage\\paymentmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\rabbitmqsender\\irabbitmqmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\rabbitmqsender\\irabbitmqmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\rabbitmqsender\\rabbitmqsendervocap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\rabbitmqsender\\rabbitmqsendervocap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\controllers\\vocabularycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\controllers\\vocabularycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDC316E-6A2F-4AF3-A87F-8D05029BD60F}|Vocap.Domain\\Vocap.Domain.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.domain\\aggregatesmodel\\vocabularyaggreate\\workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDC316E-6A2F-4AF3-A87F-8D05029BD60F}|Vocap.Domain\\Vocap.Domain.csproj|solutionrelative:vocap.domain\\aggregatesmodel\\vocabularyaggreate\\workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB114B-74C7-4299-9921-F1E66FA7DF5E}|Vocap.Infrastructure\\Vocap.Infrastructure.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.infrastructure\\vocabularycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB114B-74C7-4299-9921-F1E66FA7DF5E}|Vocap.Infrastructure\\Vocap.Infrastructure.csproj|solutionrelative:vocap.infrastructure\\vocabularycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852CEB2-0B92-4EA5-B814-7054CF9A2561}|User.API\\User.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\user.api\\rabbitcomsumner\\addvocapcomsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852CEB2-0B92-4EA5-B814-7054CF9A2561}|User.API\\User.API.csproj|solutionrelative:user.api\\rabbitcomsumner\\addvocapcomsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2CF2F4-41C3-4891-AB3D-4A2B3B425D2F}|..\\EventBus\\EventBus.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\eventbus\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDC316E-6A2F-4AF3-A87F-8D05029BD60F}|Vocap.Domain\\Vocap.Domain.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.domain\\aggregatesmodel\\vocabularyaggreate\\ivocabularyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDC316E-6A2F-4AF3-A87F-8D05029BD60F}|Vocap.Domain\\Vocap.Domain.csproj|solutionrelative:vocap.domain\\aggregatesmodel\\vocabularyaggreate\\ivocabularyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\eventbus\\abstractions\\rbmqbasecomsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|solutionrelative:eventbus\\abstractions\\rbmqbasecomsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDC316E-6A2F-4AF3-A87F-8D05029BD60F}|Vocap.Domain\\Vocap.Domain.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.domain\\aggregatesmodel\\vocabularyaggreate\\vocabulary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDC316E-6A2F-4AF3-A87F-8D05029BD60F}|Vocap.Domain\\Vocap.Domain.csproj|solutionrelative:vocap.domain\\aggregatesmodel\\vocabularyaggreate\\vocabulary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AB114B-74C7-4299-9921-F1E66FA7DF5E}|Vocap.Infrastructure\\Vocap.Infrastructure.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.infrastructure\\mediatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AB114B-74C7-4299-9921-F1E66FA7DF5E}|Vocap.Infrastructure\\Vocap.Infrastructure.csproj|solutionrelative:vocap.infrastructure\\mediatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0C99A9-7ADA-4787-9E46-E95FA91EE57A}|User.Domain\\User.Domain.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\user.domain\\seekwork\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0C99A9-7ADA-4787-9E46-E95FA91EE57A}|User.Domain\\User.Domain.csproj|solutionrelative:user.domain\\seekwork\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0C99A9-7ADA-4787-9E46-E95FA91EE57A}|User.Domain\\User.Domain.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\user.domain\\seekwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0C99A9-7ADA-4787-9E46-E95FA91EE57A}|User.Domain\\User.Domain.csproj|solutionrelative:user.domain\\seekwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0C99A9-7ADA-4787-9E46-E95FA91EE57A}|User.Domain\\User.Domain.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\user.domain\\seekwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0C99A9-7ADA-4787-9E46-E95FA91EE57A}|User.Domain\\User.Domain.csproj|solutionrelative:user.domain\\seekwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0C99A9-7ADA-4787-9E46-E95FA91EE57A}|User.Domain\\User.Domain.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\user.domain\\seekwork\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0C99A9-7ADA-4787-9E46-E95FA91EE57A}|User.Domain\\User.Domain.csproj|solutionrelative:user.domain\\seekwork\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0C99A9-7ADA-4787-9E46-E95FA91EE57A}|User.Domain\\User.Domain.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\user.domain\\seekwork\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0C99A9-7ADA-4787-9E46-E95FA91EE57A}|User.Domain\\User.Domain.csproj|solutionrelative:user.domain\\seekwork\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0C99A9-7ADA-4787-9E46-E95FA91EE57A}|User.Domain\\User.Domain.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\user.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0C99A9-7ADA-4787-9E46-E95FA91EE57A}|User.Domain\\User.Domain.csproj|solutionrelative:user.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\eventbus\\abstractions\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|solutionrelative:eventbus\\abstractions\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\eventbus\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|solutionrelative:eventbus\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\eventbus\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|solutionrelative:eventbus\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1982FEEC-088D-4AF1-B9FD-898A5DC241C7}|APIOcelotGetway\\APIOcelotGetway.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\apiocelotgetway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1982FEEC-088D-4AF1-B9FD-898A5DC241C7}|APIOcelotGetway\\APIOcelotGetway.csproj|solutionrelative:apiocelotgetway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9852CEB2-0B92-4EA5-B814-7054CF9A2561}|User.API\\User.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9852CEB2-0B92-4EA5-B814-7054CF9A2561}|User.API\\User.API.csproj|solutionrelative:user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\application\\commands\\createvocabularycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\application\\commands\\createvocabularycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\eventbus\\extensions\\generictypeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,10 +152,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\eventbus\\abstractions\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|solutionrelative:eventbus\\abstractions\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\eventbus\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|solutionrelative:eventbus\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,63 +161,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.API\\Program.cs",
-              "RelativeDocumentMoniker": "User.API\\Program.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.API\\Program.cs",
-              "RelativeToolTip": "User.API\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T06:46:47.31Z",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Vocap.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Dockerfile",
+              "RelativeToolTip": "Vocap.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-18T10:29:38.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "appsettings.Docker.json",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\appsettings.Docker.json",
+              "RelativeDocumentMoniker": "Vocap.API\\appsettings.Docker.json",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\appsettings.Docker.json",
+              "RelativeToolTip": "Vocap.API\\appsettings.Docker.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T10:29:19.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RabbitComsumer.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMQComsumer\\RabbitComsumer.cs",
+              "RelativeDocumentMoniker": "Vocap.API\\RabbitMQComsumer\\RabbitComsumer.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMQComsumer\\RabbitComsumer.cs",
+              "RelativeToolTip": "Vocap.API\\RabbitMQComsumer\\RabbitComsumer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:28:57.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VocabularyController.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Controllers\\VocabularyController.cs",
+              "RelativeDocumentMoniker": "Vocap.API\\Controllers\\VocabularyController.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Controllers\\VocabularyController.cs",
+              "RelativeToolTip": "Vocap.API\\Controllers\\VocabularyController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:34:08.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "AddVocapComsumer.cs",
               "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.API\\RabbitComsumner\\AddVocapComsumer.cs",
               "RelativeDocumentMoniker": "User.API\\RabbitComsumner\\AddVocapComsumer.cs",
               "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.API\\RabbitComsumner\\AddVocapComsumer.cs",
               "RelativeToolTip": "User.API\\RabbitComsumner\\AddVocapComsumer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T06:44:39.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PaymentMessage.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMessage\\PaymentMessage.cs",
-              "RelativeDocumentMoniker": "Vocap.API\\RabbitMessage\\PaymentMessage.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMessage\\PaymentMessage.cs",
-              "RelativeToolTip": "Vocap.API\\RabbitMessage\\PaymentMessage.cs",
+              "DocumentIndex": 13,
+              "Title": "VocabularyContext.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.Infrastructure\\VocabularyContext.cs",
+              "RelativeDocumentMoniker": "Vocap.Infrastructure\\VocabularyContext.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.Infrastructure\\VocabularyContext.cs",
+              "RelativeToolTip": "Vocap.Infrastructure\\VocabularyContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T06:43:51.493Z",
+              "WhenOpened": "2024-09-18T02:46:15.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\APIOcelotGetway\\Program.cs",
-              "RelativeDocumentMoniker": "APIOcelotGetway\\Program.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\APIOcelotGetway\\Program.cs",
-              "RelativeToolTip": "APIOcelotGetway\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAawDAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T06:36:25.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Vocap.API\\appsettings.Development.json",
@@ -159,163 +256,293 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RabbitComsumer.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMQComsumer\\RabbitComsumer.cs",
-              "RelativeDocumentMoniker": "Vocap.API\\RabbitMQComsumer\\RabbitComsumer.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMQComsumer\\RabbitComsumer.cs",
-              "RelativeToolTip": "Vocap.API\\RabbitMQComsumer\\RabbitComsumer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:28:57.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VocabularyController.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Controllers\\VocabularyController.cs",
-              "RelativeDocumentMoniker": "Vocap.API\\Controllers\\VocabularyController.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Controllers\\VocabularyController.cs",
-              "RelativeToolTip": "Vocap.API\\Controllers\\VocabularyController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAADwvx8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:34:08.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RabbitMQSenderVocap.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMQSender\\RabbitMQSenderVocap.cs",
-              "RelativeDocumentMoniker": "Vocap.API\\RabbitMQSender\\RabbitMQSenderVocap.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMQSender\\RabbitMQSenderVocap.cs",
-              "RelativeToolTip": "Vocap.API\\RabbitMQSender\\RabbitMQSenderVocap.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T06:30:17.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\appsettings.json",
               "RelativeDocumentMoniker": "Vocap.API\\appsettings.json",
               "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\appsettings.json",
               "RelativeToolTip": "Vocap.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-17T06:09:13.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Program.cs",
               "RelativeDocumentMoniker": "Vocap.API\\Program.cs",
               "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Program.cs",
               "RelativeToolTip": "Vocap.API\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA6wBcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv0AAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T04:33:02.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "Vocap.API",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Vocap.API.csproj",
+              "RelativeDocumentMoniker": "Vocap.API\\Vocap.API.csproj",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Vocap.API.csproj",
+              "RelativeToolTip": "Vocap.API\\Vocap.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T10:31:48.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RabbitMQSenderVocap.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMQSender\\RabbitMQSenderVocap.cs",
+              "RelativeDocumentMoniker": "Vocap.API\\RabbitMQSender\\RabbitMQSenderVocap.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMQSender\\RabbitMQSenderVocap.cs",
+              "RelativeToolTip": "Vocap.API\\RabbitMQSender\\RabbitMQSenderVocap.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:30:17.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IRabbitMQMessageSender.cs",
               "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMQSender\\IRabbitMQMessageSender.cs",
               "RelativeDocumentMoniker": "Vocap.API\\RabbitMQSender\\IRabbitMQMessageSender.cs",
               "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMQSender\\IRabbitMQMessageSender.cs",
               "RelativeToolTip": "Vocap.API\\RabbitMQSender\\IRabbitMQMessageSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:39:33.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateVocabularyCommand.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Application\\Commands\\CreateVocabularyCommand.cs",
-              "RelativeDocumentMoniker": "Vocap.API\\Application\\Commands\\CreateVocabularyCommand.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Application\\Commands\\CreateVocabularyCommand.cs",
-              "RelativeToolTip": "Vocap.API\\Application\\Commands\\CreateVocabularyCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:34:05.527Z",
+              "WhenOpened": "2024-09-18T08:45:02.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GenericTypeExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Extensions\\GenericTypeExtensions.cs",
-              "RelativeDocumentMoniker": "EventBus\\Extensions\\GenericTypeExtensions.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Extensions\\GenericTypeExtensions.cs",
-              "RelativeToolTip": "EventBus\\Extensions\\GenericTypeExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "BaseMessage.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Events\\BaseMessage.cs",
+              "RelativeDocumentMoniker": "EventBus\\Events\\BaseMessage.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Events\\BaseMessage.cs",
+              "RelativeToolTip": "EventBus\\Events\\BaseMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:17:03.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EventBusBuilderExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Extensions\\EventBusBuilderExtensions.cs",
-              "RelativeDocumentMoniker": "EventBus\\Extensions\\EventBusBuilderExtensions.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Extensions\\EventBusBuilderExtensions.cs",
-              "RelativeToolTip": "EventBus\\Extensions\\EventBusBuilderExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:16:33.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IEventBusBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\IEventBusBuilder.cs",
-              "RelativeDocumentMoniker": "EventBus\\Abstractions\\IEventBusBuilder.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\IEventBusBuilder.cs",
-              "RelativeToolTip": "EventBus\\Abstractions\\IEventBusBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:15:45.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "demo.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\demo.cs",
-              "RelativeDocumentMoniker": "EventBus\\Abstractions\\demo.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\demo.cs",
-              "RelativeToolTip": "EventBus\\Abstractions\\demo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:15:24.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IIntegrationEventHandler.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\IIntegrationEventHandler.cs",
-              "RelativeDocumentMoniker": "EventBus\\Abstractions\\IIntegrationEventHandler.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\IIntegrationEventHandler.cs",
-              "RelativeToolTip": "EventBus\\Abstractions\\IIntegrationEventHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:15:15.341Z",
+              "WhenOpened": "2024-09-18T09:33:44.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "WorkFlow.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.Domain\\AggregatesModel\\VocabularyAggreate\\WorkFlow.cs",
+              "RelativeDocumentMoniker": "Vocap.Domain\\AggregatesModel\\VocabularyAggreate\\WorkFlow.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.Domain\\AggregatesModel\\VocabularyAggreate\\WorkFlow.cs",
+              "RelativeToolTip": "Vocap.Domain\\AggregatesModel\\VocabularyAggreate\\WorkFlow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:46:22.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentMessage.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMessage\\PaymentMessage.cs",
+              "RelativeDocumentMoniker": "Vocap.API\\RabbitMessage\\PaymentMessage.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\RabbitMessage\\PaymentMessage.cs",
+              "RelativeToolTip": "Vocap.API\\RabbitMessage\\PaymentMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:43:51.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.Domain\\SeekWork\\IRepository.cs",
+              "RelativeDocumentMoniker": "User.Domain\\SeekWork\\IRepository.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.Domain\\SeekWork\\IRepository.cs",
+              "RelativeToolTip": "User.Domain\\SeekWork\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:39:02.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.Domain\\SeekWork\\Entity.cs",
+              "RelativeDocumentMoniker": "User.Domain\\SeekWork\\Entity.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.Domain\\SeekWork\\Entity.cs",
+              "RelativeToolTip": "User.Domain\\SeekWork\\Entity.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:39:03.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.Domain\\SeekWork\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "User.Domain\\SeekWork\\IAggregateRoot.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.Domain\\SeekWork\\IAggregateRoot.cs",
+              "RelativeToolTip": "User.Domain\\SeekWork\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:40:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IVocabularyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.Domain\\AggregatesModel\\VocabularyAggreate\\IVocabularyRepository.cs",
+              "RelativeDocumentMoniker": "Vocap.Domain\\AggregatesModel\\VocabularyAggreate\\IVocabularyRepository.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.Domain\\AggregatesModel\\VocabularyAggreate\\IVocabularyRepository.cs",
+              "RelativeToolTip": "Vocap.Domain\\AggregatesModel\\VocabularyAggreate\\IVocabularyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:46:24.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\EventBus\\IntegrationEvent.cs",
+              "RelativeDocumentMoniker": "..\\EventBus\\IntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\EventBus\\IntegrationEvent.cs",
+              "RelativeToolTip": "..\\EventBus\\IntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:12:45.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MediatorExtension.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.Infrastructure\\MediatorExtension.cs",
+              "RelativeDocumentMoniker": "Vocap.Infrastructure\\MediatorExtension.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.Infrastructure\\MediatorExtension.cs",
+              "RelativeToolTip": "Vocap.Infrastructure\\MediatorExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:46:16.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Vocabulary.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.Domain\\AggregatesModel\\VocabularyAggreate\\Vocabulary.cs",
+              "RelativeDocumentMoniker": "Vocap.Domain\\AggregatesModel\\VocabularyAggreate\\Vocabulary.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.Domain\\AggregatesModel\\VocabularyAggreate\\Vocabulary.cs",
+              "RelativeToolTip": "Vocap.Domain\\AggregatesModel\\VocabularyAggreate\\Vocabulary.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:46:25.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RBMQBaseComsumer.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\RBMQBaseComsumer.cs",
+              "RelativeDocumentMoniker": "EventBus\\Abstractions\\RBMQBaseComsumer.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\RBMQBaseComsumer.cs",
+              "RelativeToolTip": "EventBus\\Abstractions\\RBMQBaseComsumer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:04:40.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.Domain\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "User.Domain\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.Domain\\GlobalUsing.cs",
+              "RelativeToolTip": "User.Domain\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:39:09.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.Domain\\SeekWork\\ValueObject.cs",
+              "RelativeDocumentMoniker": "User.Domain\\SeekWork\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.Domain\\SeekWork\\ValueObject.cs",
+              "RelativeToolTip": "User.Domain\\SeekWork\\ValueObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:38:59.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.Domain\\SeekWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "User.Domain\\SeekWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.Domain\\SeekWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "User.Domain\\SeekWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:38:58.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "EventBus\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\GlobalUsing.cs",
+              "RelativeToolTip": "EventBus\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:49:29.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\APIOcelotGetway\\Program.cs",
+              "RelativeDocumentMoniker": "APIOcelotGetway\\Program.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\APIOcelotGetway\\Program.cs",
+              "RelativeToolTip": "APIOcelotGetway\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAawDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:36:25.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Events\\IntegrationEvent.cs",
+              "RelativeDocumentMoniker": "EventBus\\Events\\IntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Events\\IntegrationEvent.cs",
+              "RelativeToolTip": "EventBus\\Events\\IntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:14:52.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "IEventBus.cs",
               "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\IEventBus.cs",
               "RelativeDocumentMoniker": "EventBus\\Abstractions\\IEventBus.cs",
@@ -328,7 +555,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.API\\Program.cs",
+              "RelativeDocumentMoniker": "User.API\\Program.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\User.API\\Program.cs",
+              "RelativeToolTip": "User.API\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAEBTwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:46:47.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateVocabularyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Application\\Commands\\CreateVocabularyCommand.cs",
+              "RelativeDocumentMoniker": "Vocap.API\\Application\\Commands\\CreateVocabularyCommand.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Application\\Commands\\CreateVocabularyCommand.cs",
+              "RelativeToolTip": "Vocap.API\\Application\\Commands\\CreateVocabularyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:34:05.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GenericTypeExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Extensions\\GenericTypeExtensions.cs",
+              "RelativeDocumentMoniker": "EventBus\\Extensions\\GenericTypeExtensions.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Extensions\\GenericTypeExtensions.cs",
+              "RelativeToolTip": "EventBus\\Extensions\\GenericTypeExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:17:03.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EventBusBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Extensions\\EventBusBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "EventBus\\Extensions\\EventBusBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Extensions\\EventBusBuilderExtensions.cs",
+              "RelativeToolTip": "EventBus\\Extensions\\EventBusBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:16:33.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IEventBusBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\IEventBusBuilder.cs",
+              "RelativeDocumentMoniker": "EventBus\\Abstractions\\IEventBusBuilder.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\IEventBusBuilder.cs",
+              "RelativeToolTip": "EventBus\\Abstractions\\IEventBusBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:15:45.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "demo.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\demo.cs",
+              "RelativeDocumentMoniker": "EventBus\\Abstractions\\demo.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\demo.cs",
+              "RelativeToolTip": "EventBus\\Abstractions\\demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:15:24.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IIntegrationEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\IIntegrationEventHandler.cs",
+              "RelativeDocumentMoniker": "EventBus\\Abstractions\\IIntegrationEventHandler.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\IIntegrationEventHandler.cs",
+              "RelativeToolTip": "EventBus\\Abstractions\\IIntegrationEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:15:15.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "EventBusSubscriptionInfo.cs",
               "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\EventBusSubscriptionInfo.cs",
               "RelativeDocumentMoniker": "EventBus\\Abstractions\\EventBusSubscriptionInfo.cs",
@@ -337,19 +655,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T04:15:10.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IntegrationEvent.cs",
-              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Events\\IntegrationEvent.cs",
-              "RelativeDocumentMoniker": "EventBus\\Events\\IntegrationEvent.cs",
-              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Events\\IntegrationEvent.cs",
-              "RelativeToolTip": "EventBus\\Events\\IntegrationEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:14:52.371Z",
               "EditorCaption": ""
             }
           ]
