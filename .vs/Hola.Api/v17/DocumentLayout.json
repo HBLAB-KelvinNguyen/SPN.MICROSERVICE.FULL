@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\middleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\middleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\eventbus\\abstractions\\eventbussubscriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|solutionrelative:eventbus\\abstractions\\eventbussubscriptioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\eventbus\\abstractions\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F973B243-FD4C-45EA-A5E5-D73DEEDBED84}|EventBus\\EventBus.csproj|solutionrelative:eventbus\\abstractions\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Vocap.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\appsettings.json",
+              "RelativeToolTip": "Vocap.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T01:48:14.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Program.cs",
+              "RelativeDocumentMoniker": "Vocap.API\\Program.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Program.cs",
+              "RelativeToolTip": "Vocap.API\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAMwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:37:33.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Middleware\\AuthMiddleware.cs",
+              "RelativeDocumentMoniker": "Vocap.API\\Middleware\\AuthMiddleware.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Middleware\\AuthMiddleware.cs",
+              "RelativeToolTip": "Vocap.API\\Middleware\\AuthMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:16:53.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventBusSubscriptionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\EventBusSubscriptionInfo.cs",
+              "RelativeDocumentMoniker": "EventBus\\Abstractions\\EventBusSubscriptionInfo.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\EventBusSubscriptionInfo.cs",
+              "RelativeToolTip": "EventBus\\Abstractions\\EventBusSubscriptionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:15:37.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "demo.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\demo.cs",
+              "RelativeDocumentMoniker": "EventBus\\Abstractions\\demo.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\demo.cs",
+              "RelativeToolTip": "EventBus\\Abstractions\\demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:15:35.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

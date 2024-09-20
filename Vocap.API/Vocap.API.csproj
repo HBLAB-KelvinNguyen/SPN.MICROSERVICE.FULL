@@ -27,6 +27,7 @@
   <ItemGroup>
     <Folder Include="Infrastructure\" />
     <Folder Include="NewFolder\" />
+    <Folder Include="RabbitMQComsumer\" />
   </ItemGroup>
 
   <ItemGroup>

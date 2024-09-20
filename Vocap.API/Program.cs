@@ -1,8 +1,10 @@
 
+using Microsoft.AspNetCore.HttpsPolicy;
 using Polly;
 using Polly.Retry;
 using Vocap.API.Extensions;
-using Vocap.API.RabbitMQComsumer;
+using Vocap.API.Middleware;
+
 using Vocap.API.RabbitMQSender;
 
 namespace Vocap.API
@@ -22,8 +24,9 @@ namespace Vocap.API
             builder.AppApplicationServices();
             builder.Services.AddSingleton<IRabbitMQMessageSender, RabbitMQSenderVocap>();
 
+
             // add consumservice
-            builder.Services.AddHostedService<RabbitComsumer>();
+            //  builder.Services.AddHostedService<RabbitComsumer>();
 
             // add Polly : 
 
@@ -51,7 +54,11 @@ namespace Vocap.API
             };
             var optionsDefaults = new RetryStrategyOptions();
 
-
+            // get key from appsetting;
+            var config = builder.Configuration.GetSection("Apikey");
+            builder.Services.Configure<ApiKeys>(config);
+            builder.Services.AddTransient<AuthMiddleware>();
+            // apply the polly retry connection
             builder.Services.AddResiliencePipeline("sla_pipeline", builder =>
             {
                 builder
@@ -60,6 +67,8 @@ namespace Vocap.API
             });
 
             var app = builder.Build();
+
+
             var env = app.Environment;
 
 
@@ -69,6 +78,7 @@ namespace Vocap.API
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            app.UseMiddleware<AuthMiddleware>();
 
             app.UseHttpsRedirection();
 
