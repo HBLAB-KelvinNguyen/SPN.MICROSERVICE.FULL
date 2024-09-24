@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\middleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\middleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\extensions\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\extensions\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|solutionrelative:vocap.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EED951A-9087-4F80-88B9-11164F7439AD}|Vocap.API\\Vocap.API.csproj|c:\\users\\tiennvm\\desktop\\microservice.full\\spn.microservice.full\\vocap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Extensions\\Extensions.cs",
+              "RelativeDocumentMoniker": "Vocap.API\\Extensions\\Extensions.cs",
+              "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Extensions\\Extensions.cs",
+              "RelativeToolTip": "Vocap.API\\Extensions\\Extensions.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:07.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\appsettings.json",
               "RelativeDocumentMoniker": "Vocap.API\\appsettings.json",
               "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\appsettings.json",
               "RelativeToolTip": "Vocap.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-20T01:48:14.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Program.cs",
               "RelativeDocumentMoniker": "Vocap.API\\Program.cs",
@@ -60,20 +77,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AuthMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Middleware\\AuthMiddleware.cs",
               "RelativeDocumentMoniker": "Vocap.API\\Middleware\\AuthMiddleware.cs",
               "ToolTip": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\Vocap.API\\Middleware\\AuthMiddleware.cs",
               "RelativeToolTip": "Vocap.API\\Middleware\\AuthMiddleware.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T01:16:53.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EventBusSubscriptionInfo.cs",
               "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\EventBusSubscriptionInfo.cs",
               "RelativeDocumentMoniker": "EventBus\\Abstractions\\EventBusSubscriptionInfo.cs",
@@ -86,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "demo.cs",
               "DocumentMoniker": "C:\\Users\\TienNVM\\Desktop\\MICROSERVICE.FULL\\SPN.MICROSERVICE.FULL\\EventBus\\Abstractions\\demo.cs",
               "RelativeDocumentMoniker": "EventBus\\Abstractions\\demo.cs",
